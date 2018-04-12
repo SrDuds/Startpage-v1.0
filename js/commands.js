@@ -7,11 +7,11 @@ window.searchEngineUrlMap = {
   R: 'https://www.reddit.com',
   N: 'https://www.netflix.com',
   F: 'https://www.facebook.com',
-  A: 'http://sorocaba.educacaoadventista.org.br',
+  A: '',
   T: 'https://twitter.com',
   M: 'https://mail.google.com/mail/u/1/#inbox',
   I: 'https://www.instagram.com',
-  D: 'https://dudow.com.br/usuarios/entrar',
+  D: '',
   W: 'https://www.twitch.tv',
 };
 
